@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "api-gateaway"
+    },
+    {
+      "path": "billing"
+    },
+    {
+      "path": "auth"
+    }
+  ],
+  "settings": {}
+}
